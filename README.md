@@ -1,7 +1,5 @@
 # [Hemang Joshi](https://github.com/hemangjoshi37a)
 
-![Profile Picture]([path-to-profile-picture](https://avatars.githubusercontent.com/u/12392345))
-
 A Data Scientist with good knowledge in machine learning, Algorithmic Trading and electronics.
 
 ## Social Media :
