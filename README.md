@@ -1,11 +1,36 @@
-# Hemang Joshi
+# [Hemang Joshi](https://github.com/hemangjoshi37a)
 
-Hi, I'm Hemang Joshi and my Github username is `hemangjoshi37a`. I'm a data scientist with expertise in machine learning, algorithmic trading, and electronics.
+![Profile Picture]([path-to-profile-picture](https://avatars.githubusercontent.com/u/12392345?v=4))
 
-Here's a list of my repositories:
+A Data Scientist with good knowledge in machine learning, Algorithmic Trading and electronics.
 
-- [TrendMaster](https://github.com/hemangjoshi37a/TrendMaster)
-- [CodeScope](https://github.com/hemangjoshi37a/CodeScope)
-- [adScape](https://github.com/hemangjoshi37a/adScape)
+## Social Media :
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/whatsapp.jpg" width="15px;"/> [WhatsApp/917016525813](https://wa.me/917016525813)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/telegram.me.jpg" width="15px;"/> [Telegram/hjlabs](https://t.me/hjlabs)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/email.jpg" width="15px;"/> Gmail/hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/facebook.jpg" width="15px;"/> Facebook/hemangjoshi37](https://www.facebook.com/hemangjoshi37/)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/twitter.jpg" width="15px;"/> Twitter/HemangJ81509525](https://twitter.com/HemangJ81509525)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn/hemang-joshi-046746aa](https://www.linkedin.com/in/hemang-joshi-046746aa/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/tumblr.jpg" width="15px;"/> [Tumblr/hemangjoshi37a-blog](https://www.tumblr.com/blog/hemangjoshi37a-blog)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/pinterest.jpg" width="15px;"/> [Pinterest/hemangjoshi37a](https://in.pinterest.com/hemangjoshi37a/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/blogger.jpg" width="15px;"/> [Blogger/hemangjoshi](http://hemangjoshi.blogspot.com/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/instapaper.jpg" width="15px;"/> [Instagram/hemangjoshi37](https://www.instagram.com/hemangjoshi37/)
 
-You can also visit my website at [hjlabs.in](https://hjlabs.in) or contact me via email at `hemangjoshi37a@gmail.com`.
+## Skills
+- Machine Learning
+- Algorithmic Trading
+- Electronics
+
+## Repositories
+- [hjAlgos_notebooks](https://github.com/yourusername/hjAlgos_notebooks)
+- [adScape](https://github.com/yourusername/adScape)
+- [CodeScope](https://github.com/yourusername/CodeScope)
+- [TrendMaster](https://github.com/yourusername/TrendMaster)
+- [my_chat_with_chatGPT](https://github.com/yourusername/my_chat_with_chatGPT)
+- [SWiBoard](https://github.com/yourusername/SWiBoard)
+- [ChatGPTPublish](https://github.com/yourusername/ChatGPTPublish)
+- [AutoCut](https://github.com/yourusername/AutoCut)
+
+## Awards and Achievements
+- Achievement: Pull Shark
+- Achievement: Starstruck
