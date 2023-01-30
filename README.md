@@ -1,6 +1,4 @@
-# [Hemang Joshi](https://github.com/hemangjoshi37a)
-
-A Data Scientist with good knowledge in machine learning, Algorithmic Trading and electronics.
+# A Data Scientist with good knowledge in machine learning, Algorithmic Trading and electronics.
 
 ## Social Media :
 * <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/whatsapp.jpg" width="15px;"/> [WhatsApp/917016525813](https://wa.me/917016525813)
