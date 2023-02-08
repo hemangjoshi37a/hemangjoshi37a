@@ -5,7 +5,7 @@
 - 👨‍💻 I'm currently working on [my website](https://hjlabs.in) and my repositories.
 - 💞 I’m looking to collaborate on open-source GitHub repository projects.
 
-## Skills
+## 👷 Skills
 - Machine Learning
 - Algorithmic Trading
 - Electronics
