@@ -4,10 +4,6 @@
 - 👨‍💻 I'm currently working on [my website](https://hjlabs.in) and [my repositories](https://github.com/hemangjoshi37a?tab=repositories&q=&type=source&language=&sort=).
 - 💞 I’m looking to collaborate on open-source GitHub repository projects.
 
-
-
-
-
 ## 👷 Skills
 |Machine Learning|Algorithmic Trading|Electronics|
 |:---:|:---:|:---:|
@@ -15,6 +11,7 @@
 
 ## 🛠 Languages and Tools
 <img height="36" src="https://cdn.simpleicons.org/Python" title="Python"> &nbsp;
+<img height="36" src="https://cdn.simpleicons.org/linux" title="linux"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/tensorflow" title="tensorflow"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/pytorch" title="pytorch"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/keras" title="keras"> &nbsp;
@@ -34,6 +31,8 @@
 <img height="36" src="https://cdn.simpleicons.org/mqtt" title="mqtt"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/espressif" title="espressif"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/tasmota" title="tasmota"> &nbsp;
+<img height="36" src="https://cdn.simpleicons.org/arduino" title="arduino"> &nbsp;
+<img height="36" src="https://cdn.simpleicons.org/raspberrypi" title="raspberrypi"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/Redis" title="Redis"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/ngrok" title="ngrok"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/NGINX" title="NGINX"> &nbsp;
