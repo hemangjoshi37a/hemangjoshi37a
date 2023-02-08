@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @hemangjoshi37a 🇮🇳
 
 - 🤵‍ I'm a Computer Engineer, with 5+ years experience in building web applications.
-- 💼 I own my business at (hjLabs.in)[https://hjlabs.in]
-- 👨‍💻 I'm currently working on (my website)[https://hjlabs.in] and my repositories.
+- 💼 I own my business at [hjLabs.in](https://hjlabs.in)
+- 👨‍💻 I'm currently working on [my website](https://hjlabs.in) and my repositories.
 - 💞 I’m looking to collaborate on open-source GitHub repository projects.
 
 ## Skills
