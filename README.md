@@ -10,7 +10,7 @@
 - Algorithmic Trading
 - Electronics
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 <img height="36" src="https://cdn.simpleicons.org/Python" title="Python"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/tensorflow" title="tensorflow"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/pytorch" title="pytorch"> &nbsp;
@@ -39,7 +39,7 @@
 <img height="36" src="https://cdn.simpleicons.org/gitlab" title="GitHub"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/JetBrains" title="JetBrains"> &nbsp;
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 [<img height="36" src="https://cdn.simpleicons.org/WhatsApp"/>](https://wa.me/917016525813) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/telegram"/>](https://t.me/hjlabs) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/Gmail"/>](mailto:hemangjoshi37a@gmail.com) &nbsp;
