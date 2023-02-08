@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @hemangjoshi37a 🇮🇳
 
 - 🤵‍ I'm a Computer Engineer, with 8+ years experience in building Android applications and training Machine Learning Models.
-- 💼 I own my business at [hjLabs.in](https://hjlabs.in)
-- 👨‍💻 I'm currently working on [my website](https://hjlabs.in) and my repositories.
+- 💼 I own my business at [hjLabs.in](https://hjlabs.in).
+- 👨‍💻 I'm currently working on [my website](https://hjlabs.in) and [my repositories](https://github.com/hemangjoshi37a?tab=repositories).
 - 💞 I’m looking to collaborate on open-source GitHub repository projects.
 
 ## 👷 Skills
