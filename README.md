@@ -5,7 +5,7 @@
 - 💞 I’m looking to collaborate on open-source GitHub repository projects.
 
 ## 👷 Skills
-|Machine Learning|Algorithmic Trading|Electronics|
+|Machine Learning|Algorithmic Trading|Internet of Things|
 |:---:|:---:|:---:|
 |[![Machine-Learning]( https://user-images.githubusercontent.com/12392345/217462050-bc4d553b-d0ca-48ee-b12c-06eb79b8290b.gif)](https://github.com/hemangjoshi37a/TelegramTradeMsgBacktestML)|[![algo-trading-zerodha-hjalgos_notebooks](https://user-images.githubusercontent.com/12392345/217462039-2d4f2854-850f-4ba6-aaff-d9c160a30268.gif)](https://github.com/hemangjoshi37a/hjAlgos_notebooks)|[![electronics-automation-iot-mqqtt-swiboard](https://user-images.githubusercontent.com/12392345/217461999-af99b303-7168-459f-a76c-e6797184e40f.gif)](https://github.com/hemangjoshi37a/SWiBoard)|
 
