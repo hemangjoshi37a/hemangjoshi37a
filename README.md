@@ -41,7 +41,6 @@
 <img height="36" src="https://cdn.simpleicons.org/gitlab" title="GitHub"> &nbsp;
 <img height="36" src="https://cdn.simpleicons.org/JetBrains" title="JetBrains"> &nbsp;
 
-
 ## 📫 How to reach me
 [<img height="36" src="https://cdn.simpleicons.org/similarweb"/>](https://hjlabs.in/) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/WhatsApp"/>](https://wa.me/917016525813) &nbsp;
@@ -63,3 +62,9 @@
 - [build algotrading, backtesting and stock monitoring tools using python](https://www.fiverr.com/share/A7Y14q)
 - [tutor you in your science problems](https://www.fiverr.com/share/zPzmlz)
 - [make apps for you crossplatform	](https://www.fiverr.com/share/BGw12l)
+
+## My Courserra Certificates:
+- [Machine Learning from Stanford](https://coursera.org/verify/H4P738YA78CM)
+- [Introduction and Programming with IoT Boards from POSTECH](https://coursera.org/verify/QWKA93EHPGVU)
+- [The Science of Well-Being from Yale](https://coursera.org/verify/UPNMGCKYXXF4)
+- [Blockchain Basics by University at Buffalo](https://coursera.org/verify/LNG97LNEYQAN)
