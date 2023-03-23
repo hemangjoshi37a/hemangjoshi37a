@@ -9,11 +9,10 @@
 |:---:|:---:|:---:|
 |[![Machine-Learning]( https://user-images.githubusercontent.com/12392345/217462050-bc4d553b-d0ca-48ee-b12c-06eb79b8290b.gif)](https://github.com/hemangjoshi37a/TelegramTradeMsgBacktestML)|[![algo-trading-zerodha-hjalgos_notebooks](https://user-images.githubusercontent.com/12392345/217462039-2d4f2854-850f-4ba6-aaff-d9c160a30268.gif)](https://github.com/hemangjoshi37a/hjAlgos_notebooks)|[![electronics-automation-iot-mqqtt-swiboard](https://user-images.githubusercontent.com/12392345/217461999-af99b303-7168-459f-a76c-e6797184e40f.gif)](https://github.com/hemangjoshi37a/SWiBoard)|
 
-## 📈 GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=radical)](https://github.com/hemangjoshi37a)
 
-## 🕵️‍♂️ Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&layout=compact&theme=radical)](https://github.com/hemangjoshi37a)
+|📈 GitHub Stats|🕵️‍♂️ Top Languages|
+|:---:|:---:|
+|[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=radical)](https://github.com/hemangjoshi37a)|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&layout=compact&theme=radical)](https://github.com/hemangjoshi37a)|
 
 
 ## 🛠 Languages and Tools
