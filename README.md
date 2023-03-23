@@ -63,14 +63,14 @@
 [<img height="36" src="https://cdn.simpleicons.org/Blogger"/>](http://hemangjoshi.blogspot.com) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/gitlab"/>](https://gitlab.com/hemangjoshi37a) &nbsp;
 
-## Awesome Fiverr. Gigs:
+## 👍 Awesome Fiverr. Gigs:
 - [develop machine learning ner model as in nlp using python](https://www.fiverr.com/share/9YNabx)
 - [train custom chatgpt question answering model](https://www.fiverr.com/share/rwx6r7)
 - [build algotrading, backtesting and stock monitoring tools using python](https://www.fiverr.com/share/A7Y14q)
 - [tutor you in your science problems](https://www.fiverr.com/share/zPzmlz)
 - [make apps for you crossplatform	](https://www.fiverr.com/share/BGw12l)
 
-## My Courserra Certificates:
+## 📜 My Courserra Certificates:
 - [Machine Learning from Stanford](https://coursera.org/verify/H4P738YA78CM)
 - [Introduction and Programming with IoT Boards from POSTECH](https://coursera.org/verify/QWKA93EHPGVU)
 - [The Science of Well-Being from Yale](https://coursera.org/verify/UPNMGCKYXXF4)
