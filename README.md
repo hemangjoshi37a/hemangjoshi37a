@@ -62,15 +62,6 @@
 [<img height="36" src="https://cdn.simpleicons.org/Blogger"/>](http://hemangjoshi.blogspot.com) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/gitlab"/>](https://gitlab.com/hemangjoshi37a) &nbsp;
 
-## 👍 Awesome Fiverr. Gigs:
-- [I will develop machine learning ner model as in nlp using python](https://www.fiverr.com/share/9YNabx)
-- [I will train custom chatgpt question answering model](https://www.fiverr.com/share/rwx6r7)
-- [I will build algotrading, backtesting and stock monitoring tools using python](https://www.fiverr.com/share/A7Y14q)
-- [I will tutor you in your science problems](https://www.fiverr.com/share/zPzmlz)
-- [I will make apps for you crossplatform	](https://www.fiverr.com/share/BGw12l)
-- [I will setup cloudflare, cdn, ssl , fix any existing problem](https://www.fiverr.com/share/A7AEB5)
-- [I will configure and troubleshoot linux server, ubuntu, linux mint etc](https://www.fiverr.com/share/d8xY0Y)
-
 ## 📜 My Courserra Certificates:
 - [Machine Learning from Stanford](https://coursera.org/verify/H4P738YA78CM)
 - [Introduction and Programming with IoT Boards from POSTECH](https://coursera.org/verify/QWKA93EHPGVU)
