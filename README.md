@@ -4,6 +4,8 @@
 - 👨‍💻 I'm currently working on [my website](https://hjlabs.in) and [my repositories](https://github.com/hemangjoshi37a?tab=repositories&q=&type=source&language=&sort=).
 - 💞 I’m looking to collaborate on open-source GitHub repository projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemangjoshi37a&label=Profile%20views&color=0e75b6&style=flat" alt="hemangjoshi37a" /> </p>
+
 ## 👷 Skills
 |Machine Learning|Algorithmic Trading|Internet of Things|
 |:---:|:---:|:---:|
