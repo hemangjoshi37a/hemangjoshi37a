@@ -1,118 +1,126 @@
-<h1 align="center">👋 Hi, I'm Hemang Joshi 🇮🇳</h1>
-<h3 align="center">Electrical Engineer | AI & Machine Learning | Algorithmic Trading Expert | IoT Innovator</h3>
+<h1 align="center">Hemang Joshi</h1>
+<h3 align="center">Founder, hjLabs.in | Industrial Automation | AI/ML | IoT | Algorithmic Trading</h3>
 
 <p align="center">
-  <a href="https://hjlabs.in" alt="Visit hjLabs.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://wa.me/917016525813" alt="Chat on WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.me/hjlabs" alt="Connect on Telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:hemangjoshi37a@gmail.com" alt="Send me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemang-joshi-046746aa" alt="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/HemangJ81509525" alt="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://hjlabs.in"><img src="https://img.shields.io/badge/hjLabs.in-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://wa.me/917016525813"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemang-joshi-046746aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hemangjoshi37a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/hjlabs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@HemangJoshi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemangjoshi37a&label=Profile%20Views&color=brightgreen&style=flat" />
+  <a href="https://github.com/hemangjoshi37a?tab=followers"><img src="https://img.shields.io/github/followers/hemangjoshi37a?label=Followers&style=social" /></a>
+  <img src="https://img.shields.io/github/stars/hemangjoshi37a?affiliations=OWNER&style=social" />
 </p>
 
 ---
 
-## ✨ About Me: AI | IoT | Algorithmic Trading  
+### About
 
-- 💻 Electrical Engineer with 15+ years of expertise in **Android App Development, Machine Learning Models, and Algorithmic Trading**  
-- 🚀 Founder of [hjLabs.in](https://hjlabs.in), building **innovative IoT solutions & financial models**  
-- 🤝 Open-source enthusiast seeking collaboration on **cutting-edge ML/AI and fintech projects**  
-- 🌐 Passionate about **Python, Flutter, TensorFlow, PyTorch, and cloud-native applications**
+I build things that automate things.
 
-<div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hemangjoshi37a&label=Profile%20Views&color=green&style=flat" />
-  <a href="https://github.com/hemangjoshi37a?tab=followers" alt="GitHub Follow"><img src="https://img.shields.io/github/followers/hemangjoshi37a?label=Follow&style=social" /></a>
-</div>
+**Founder of [hjLabs.in](https://hjlabs.in)** — we design and manufacture custom industrial automation machines, IoT devices, and AI-powered systems. Shipping to 15+ countries with a 4.9-star Google rating.
 
----
+**What I work on:**
+- **Industrial Automation** — Wire cutters, soldering machines, transformer winders, spring coiling machines, PLC/HMI/VFD systems
+- **AI & ML** — Transformer models for stock prediction, autonomous AI agents, computer vision for factory optimization
+- **Algorithmic Trading** — Multi-account portfolio management, backtesting frameworks, trading signal analysis
+- **IoT** — ESP32/Raspberry Pi connected devices, MQTT infrastructure, smart switches, sensor data loggers
+- **Developer Tools** — MCP server ecosystem tools, AI-assisted code visualization
 
-## 🔧 Skills & Technologies  
-
-<p align="center">
-  <img alt="Python" src="https://skillicons.dev/icons?i=python" />
-  <img alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" />
-  <img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch" />
-  <img alt="Flutter" src="https://skillicons.dev/icons?i=flutter" />
-  <img alt="Dart" src="https://skillicons.dev/icons?i=dart" />
-  <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" />
-  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" />
-  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
-  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" />
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" />
-</p>
+15+ years in electrical engineering. Based in Ahmedabad, India.
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=radical" height="160">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&show_icons=true&layout=compact&theme=radical" height="160">
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangjoshi37a&theme=radical" height="180">
-</p>
-
-<p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=hemangjoshi37a&theme=radical&margin-w=10&margin-h=10&column=7" />
-</p>
-
----
-
-## 🌟 Featured Projects  
+### Featured Work
 
 <table>
   <tr>
-    <td align="center" width="250px">
-      <a href="https://github.com/hemangjoshi37a/TelegramTradeMsgBacktestML" title="ML-based backtesting for Telegram trading messages">
-        <img alt="TelegramTradeMsgBacktestML" src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=TelegramTradeMsgBacktestML&theme=radical" />
+    <td align="center" width="33%">
+      <a href="https://github.com/hemangjoshi37a/TrendMaster">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=TrendMaster&theme=dark&hide_border=true" />
       </a>
-      <p>A Machine Learning project for algorithmic backtesting Telegram trading signals.</p>
+      <br/><sub>Transformer deep learning for stock price prediction</sub>
     </td>
-    <td align="center" width="250px">
-      <a href="https://github.com/hemangjoshi37a/hjAlgos_notebooks" title="Algorithmic trading notebooks">
-        <img alt="hjAlgos_notebooks" src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=hjAlgos_notebooks&theme=radical" />
+    <td align="center" width="33%">
+      <a href="https://github.com/hemangjoshi37a/hjAlgos_notebooks">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=hjAlgos_notebooks&theme=dark&hide_border=true" />
       </a>
-      <p>Numeric Python notebooks for algorithmic trading strategies and analysis.</p>
+      <br/><sub>Algorithmic trading strategy notebooks</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="250px">
-      <a href="https://github.com/hemangjoshi37a/SWiBoard" title="IoT-based smart switching board">
-        <img alt="SWiBoard" src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=SWiBoard&theme=radical" />
+    <td align="center" width="33%">
+      <a href="https://github.com/hemangjoshi37a/o1-meta-prompt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=o1-meta-prompt&theme=dark&hide_border=true" />
       </a>
-      <p>Flutter-powered MQTT IoT switch board with WiFi convertibility.</p>
-    </td>
-    <td align="center" width="250px">
-      <a href="https://github.com/hemangjoshi37a/TrendMaster" title="Transformer deep learning for stock prediction">
-        <img alt="TrendMaster" src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=TrendMaster&theme=radical" />
-      </a>
-      <p>Transformer deep learning architecture to predict stock prices.</p>
+      <br/><sub>o1-style reasoning for any LLM</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="250px">
-      <a href="https://github.com/hemangjoshi37a/pyPortMan" title="Python Zerodha Multi Account Portfolio Management">
-        <img alt="pyPortMan" src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=pyPortMan&theme=radical" />
+    <td align="center" width="33%">
+      <a href="https://github.com/hemangjoshi37a/SWiBoard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=SWiBoard&theme=dark&hide_border=true" />
       </a>
-      <p>Python-based portfolio management software using Zerodha APIs.</p>
+      <br/><sub>Flutter + MQTT smart switch board (ESP32)</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hemangjoshi37a/mcphub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=mcphub&theme=dark&hide_border=true" />
+      </a>
+      <br/><sub>GUI to discover & manage MCP servers</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hemangjoshi37a/CodeScope">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=CodeScope&theme=dark&hide_border=true" />
+      </a>
+      <br/><sub>Visualize Python code as flowcharts</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📜 Certifications  
+### Tech Stack
 
-- 🎓 [Machine Learning – Stanford](https://coursera.org/verify/H4P738YA78CM)  
-- 🔗 [IoT Boards Programming – POSTECH](https://coursera.org/verify/QWKA93EHPGVU)  
-- 🧘 [The Science of Well-Being – Yale](https://coursera.org/verify/UPNMGCKYXXF4)  
-- ⛓️ [Blockchain Basics – University at Buffalo](https://coursera.org/verify/LNG97LNEYQAN)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flutter,dart,arduino,raspberrypi,firebase,linux,mysql,postgresql,git,docker,js,ts,react,nextjs,fastapi" />
+</p>
 
 ---
 
-## 💬 Let’s Connect!  
+### Stats
 
-✨ Passionate about **deep learning, fintech innovations, and IoT startups**.  
-Always open for discussions on **ML/AI trends, algorithmic trading, and open-source collaboration** 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangjoshi37a&theme=dark&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hemangjoshi37a&theme=darkhub&no-frame=true&margin-w=10&column=7" />
+</p>
+
+---
+
+### Certifications
+
+- [Machine Learning — Stanford University](https://coursera.org/verify/H4P738YA78CM)
+- [IoT Boards Programming — POSTECH](https://coursera.org/verify/QWKA93EHPGVU)
+- [Blockchain Basics — University at Buffalo](https://coursera.org/verify/LNG97LNEYQAN)
+- [The Science of Well-Being — Yale University](https://coursera.org/verify/UPNMGCKYXXF4)
+
+---
+
+### Work With Me
+
+I take on select projects in industrial automation, IoT system design, and AI/ML consulting.
+
+- **Custom machines** — [hjlabs.in/custom-automation-solutions](https://hjlabs.in/custom-automation-solutions/)
+- **Automation components** — [hjlabs.in/store](https://hjlabs.in/store/)
+- **Consulting & freelance** — [hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
+- **Quick chat** — [WhatsApp](https://wa.me/917016525813)
