@@ -37,48 +37,10 @@ I build things that automate things.
 
 ### Featured Work
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/hemangjoshi37a/TrendMaster">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=TrendMaster&theme=dark&hide_border=true" />
-      </a>
-      <br/><sub>Transformer deep learning for stock price prediction</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/hemangjoshi37a/hjAlgos_notebooks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=hjAlgos_notebooks&theme=dark&hide_border=true" />
-      </a>
-      <br/><sub>Algorithmic trading strategy notebooks</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/hemangjoshi37a/o1-meta-prompt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=o1-meta-prompt&theme=dark&hide_border=true" />
-      </a>
-      <br/><sub>o1-style reasoning for any LLM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/hemangjoshi37a/SWiBoard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=SWiBoard&theme=dark&hide_border=true" />
-      </a>
-      <br/><sub>Flutter + MQTT smart switch board (ESP32)</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/hemangjoshi37a/mcphub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=mcphub&theme=dark&hide_border=true" />
-      </a>
-      <br/><sub>GUI to discover & manage MCP servers</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/hemangjoshi37a/CodeScope">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemangjoshi37a&repo=CodeScope&theme=dark&hide_border=true" />
-      </a>
-      <br/><sub>Visualize Python code as flowcharts</sub>
-    </td>
-  </tr>
-</table>
+| | | |
+|:--|:--|:--|
+| **[TrendMaster](https://github.com/hemangjoshi37a/TrendMaster)**<br/><sub>Transformer deep learning for stock price prediction</sub> | **[hjAlgos_notebooks](https://github.com/hemangjoshi37a/hjAlgos_notebooks)**<br/><sub>Algorithmic trading strategy notebooks</sub> | **[o1-meta-prompt](https://github.com/hemangjoshi37a/o1-meta-prompt)**<br/><sub>o1-style reasoning for any LLM</sub> |
+| **[SWiBoard](https://github.com/hemangjoshi37a/SWiBoard)**<br/><sub>Flutter + MQTT smart switch board (ESP32)</sub> | **[mcphub](https://github.com/hemangjoshi37a/mcphub)**<br/><sub>GUI to discover & manage MCP servers</sub> | **[CodeScope](https://github.com/hemangjoshi37a/CodeScope)**<br/><sub>Visualize Python code as flowcharts</sub> |
 
 ---
 
@@ -93,16 +55,13 @@ I build things that automate things.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://img.shields.io/github/followers/hemangjoshi37a?label=Followers&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/hemangjoshi37a?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangjoshi37a&theme=dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemangjoshi37a&theme=darkhub&no-frame=true&margin-w=10&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="165" />
 </p>
 
 ---
