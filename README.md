@@ -26,7 +26,7 @@ I build things that automate things.
 
 **What I work on:**
 - **Industrial Automation** — Wire cutters, soldering machines, transformer winders, spring coiling machines, PLC/HMI/VFD systems
-- **AI & ML** — Transformer models for stock prediction, autonomous AI agents, computer vision for factory optimization
+- **AI & ML** — Transformer models for stock prediction, [autonomous AI agents](https://hjlabs.in/AIML/services/agentic-ai/), computer vision for factory optimization
 - **Algorithmic Trading** — Multi-account portfolio management, backtesting frameworks, trading signal analysis
 - **IoT** — ESP32/Raspberry Pi connected devices, MQTT infrastructure, smart switches, sensor data loggers
 - **Developer Tools** — MCP server ecosystem tools, AI-assisted code visualization
@@ -122,5 +122,6 @@ I take on select projects in industrial automation, IoT system design, and AI/ML
 
 - **Custom machines** — [hjlabs.in/custom-automation-solutions](https://hjlabs.in/custom-automation-solutions/)
 - **Automation components** — [hjlabs.in/store](https://hjlabs.in/store/)
+- **AI/ML consulting** — [agentic AI, RAG systems & LLM fine-tuning](https://hjlabs.in/AIML/services/)
 - **Consulting & freelance** — [hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
 - **Quick chat** — [WhatsApp](https://wa.me/917016525813)
