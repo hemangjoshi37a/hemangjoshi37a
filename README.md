@@ -57,11 +57,7 @@ I build things that automate things.
 <p align="center">
   <img src="https://img.shields.io/github/followers/hemangjoshi37a?label=Followers&style=for-the-badge&color=brightgreen" />
   <img src="https://img.shields.io/github/stars/hemangjoshi37a?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemangjoshi37a&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangjoshi37a&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=hemangjoshi37a&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
